@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Bodega Peirano",
+    "slug": "vg-ms-bodega-peirano-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "scheme": "bodega-peirano",
+    "userInterfaceStyle": "automatic",
+    "plugins": [
+      "expo-router",
+      "expo-status-bar"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
